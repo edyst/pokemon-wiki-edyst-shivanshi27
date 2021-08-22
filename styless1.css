@@ -54,7 +54,7 @@
     border: none;    
 }
 
-/********   Home Page Styling   *********/
+/* Home section*/
 section {
     padding: 1em;
 }
@@ -125,7 +125,7 @@ section {
     font-weight: bold;
     color: #000;
 }
-/********   Pocket Monster Styling   *********/
+/*pokemons section*/
 
 .pocket-monster {
     background-color:  #4992ca;
@@ -159,7 +159,7 @@ section {
     line-height: 22px;
 }
 
-/********   Statistics  Styling   *********/
+/*Statistics section*/
 
 .statistics .container {
     padding: 1em;
@@ -182,7 +182,7 @@ section {
     line-height: 22px;
 }
 
-/********   year-list  Styling   *********/
+/* year-list section*/
 
 .year-list .container {
     text-align: center;
@@ -223,7 +223,7 @@ section {
     line-height: 22px;
 }
 
-/********   Q and A  Styling   *********/
+/*Q and A section*/
 .qanda {
     background-color: #4992ca;
     color: #fff;
@@ -249,7 +249,7 @@ section {
 
 
 
-/*  battles  */
+/*  battle section*/
 .battles {
     padding: 2em;
 }
@@ -315,7 +315,7 @@ section {
 }
 
 
-/******************* know more ****************/
+/*know more section*/
 
 .know-more {
     background-color: #424242;
@@ -341,7 +341,7 @@ section {
 }
 
 
-/******************* Pokemon Card ****************/
+/*Pokemon Card section*/
 
 .poke-card .title {
     color: #424242;
@@ -363,7 +363,7 @@ section {
     font-weight: bold;
 }
 
-/******************* Trainers ****************/
+/*Trainers*/
 
 .trainers {
     background-color: #4992ca;
@@ -380,7 +380,7 @@ section {
 
 
 
-/****************  Generation card **************/
+/*Generation card*/
 
 .generations .title {
     color:#8a8a8a;
@@ -417,7 +417,7 @@ section {
 
 }
 
-/*********** subscription ***********/
+/*subscription*/
 .subscribe {
     padding: 0;
 }
@@ -434,7 +434,7 @@ section {
     padding: 1.1em;
 }
 
-/*******  poke-games  *******/
+/*poke-games*/
 
 .poke-games .container {
     max-width: 63%;
@@ -470,7 +470,7 @@ section {
     margin-top: 3em;
 }
 
-/***************** Designers **********/
+/*Designers section*/
 
 .designers {
     background-color: #4992ca;
@@ -512,7 +512,7 @@ section {
     line-height: 22px;
     text-align: left;
 }
-/***************** Logos ***************/
+/*Logos section*/
 
 .logos-section .title {
     color: #8a8a8a;
@@ -533,7 +533,7 @@ section {
 }
 
 
-/******** know more *************/ 
+/* know more */ 
 
 .bg-col {
     height: max-content;
