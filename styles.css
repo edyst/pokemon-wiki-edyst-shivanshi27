@@ -322,7 +322,7 @@ section {
 }
 
 
-/******************* know more ****************/
+/*know more section*/
 
 .know-more {
     background-color: #424242;
@@ -348,7 +348,7 @@ section {
 }
 
 
-/******************* Pokemon Card ****************/
+/* Pokemon Card Section*/
 
 .poke-card .title {
     color: #424242;
@@ -370,7 +370,7 @@ section {
     font-weight: bold;
 }
 
-/******************* Trainers ****************/
+/* Trainers Section*/
 
 .trainers {
     background-color: #4992ca;
@@ -387,7 +387,7 @@ section {
 
 
 
-/****************  Generation card **************/
+/* Generation card Section*/
 
 .generations .title {
     color:#8a8a8a;
@@ -424,7 +424,7 @@ section {
 
 }
 
-/*********** subscription ***********/
+/*subscription*/
 .subscribe {
     padding: 0;
 }
@@ -441,7 +441,7 @@ section {
     padding: 1.1em;
 }
 
-/*******  poke-games  *******/
+/* poke-games*/
 
 .poke-games .container {
     max-width: 63%;
@@ -477,7 +477,7 @@ section {
     margin-top: 3em;
 }
 
-/***************** Designers **********/
+/* Designers Section*/
 
 .designers {
     background-color: #4992ca;
@@ -519,7 +519,7 @@ section {
     line-height: 22px;
     text-align: left;
 }
-/***************** Logos ***************/
+/*Logos Section*/
 
 .logos-section .title {
     color: #8a8a8a;
@@ -540,7 +540,7 @@ section {
 }
 
 
-/******** know more *************/ 
+/* know more Section*/ 
 
 .bg-col {
     height: max-content;
